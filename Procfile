@@ -1,0 +1,1 @@
+web: gunicorn restful.wsgi --log-file -
